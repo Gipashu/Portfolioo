@@ -1,0 +1,6 @@
+@import "../../vars.css";
+
+.education-section{
+    display: flex ;
+    flex-direction: row;
+}

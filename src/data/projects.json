@@ -1,0 +1,26 @@
+[
+    {
+      "title": "StudyNotion",
+      "imageSrc": "projects/studynotion.png",
+      "description": "A dynamic MERN Stack educational Platform allowing tutors to create multiple courses and students to access diverse educational content.",
+      "skills": ["React", "Express", "Node","MongoDB","JavaScript", "Tailwind CSS"],
+      "demo": "https://myystudynotion.netlify.app/",
+      "source": "https://github.com/Gipashu/my-study-notion-front"
+    },
+    {
+      "title": "Rajasthan Police Online FIR System (Hackathon Project)",
+      "imageSrc": "projects/fir3.jpg",
+      "description": " Developed a website facilitating police officers to upload incident-related applications for automatic generation of online FIRs, incorporating relevant acts and sections.",
+      "skills": ["MERN","JavaScript", "ML","LLM", "Supervised Learning"],
+      "demo": "https://myystudynotion.netlify.app/",
+      "source": "https://github.com/ankur27raj/RJPOLICE_HACK_623_Pokemons_4"
+    },
+    {
+      "title": "Shopping Page",
+      "imageSrc": "projects/shopping.png",
+      "description": "A single-page shopping website allows users to browse and add items to their cart seamlessly. Once users have selected items, they can review their cart, adjust quantities, and proceed to checkout.",
+      "skills": ["React", "Tailwind CSS", "React-Redux"],
+      "source": "https://github.com/ankur27raj/RJPOLICE_HACK_623_Pokemons_4"
+    }
+    
+  ]

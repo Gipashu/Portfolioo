@@ -1,0 +1,82 @@
+
+[
+    {
+    "title": "MongoDB",
+    "theme":"SiMongodb",
+    "colour" :"green",
+    "size":"5em",
+    "description": "I have employed MongoDB in projects where flexibility in data modeling and scalability were crucial, such as building e-commerce platforms and content management systems."
+},
+{
+    "title": "Express",
+    "theme":"SiExpress",
+    "colour" :"white",
+    "size":"5em",
+    "description":"I have leveraged Express to create server-side logic, handle HTTP requests and         responses,and organize the application's structure efficiently."
+},
+{
+    "title": "React",
+    "theme":"FaReact",
+    "colour" :"blue",
+    "size":"5em",
+    "description": " I have utilized React to develop interactive and efficient web applications, enabling me to create reusable UI components and  manage complex application state effectively."      
+},
+{
+    "title": "NodeJs",
+    "theme":"IoLogoNodejs",
+    "colour" :"green",
+    "size":"5em",
+    "description": "I have utilized Node.js to build scalable and high-performance server-side applications, including RESTful APIs."
+},
+{
+    "title": "JavaScript",
+    "theme":"IoLogoJavascript",
+    "colour" :"yellow",
+    "size":"5em",
+    "description": " I have used JavaScript extensively to enhance user experienceon websites, create animations, and handle form validations."
+},
+{
+    "title": "Tailwind CSS",
+    "theme":"SiTailwindcss",
+    "colour" :"blue",
+    "size":"5em",
+    "description": "I have adopted Tailwind CSS to rapidly prototype and style web interfaces, achieving consistent and responsive designs across different devices."
+},
+{
+    "title": "SQL",
+    "theme":"GrMysql",
+    "colour" :"white",
+    "size":"5em",
+    "description": "I have learned SQL to perform complex database operations, including data manipulation, aggregation, and joining."
+},
+{
+    "title": "C++",
+    "theme":"TbBrandCpp",
+    "size":"5em",
+    "description": "Skilled in C++, proficient in algorithms, data structures, and object-oriented programming. Experienced in developing efficient solutions and leveraging STL for rapid development."
+},
+{
+    "title": "Computer Networks",
+    "theme":"FaNetworkWired",
+    "size":"5em",
+    "description": " I have studied and implemented various networking concepts such as TCP/IP protocols, routing algorithms, and network security mechanisms to design and troubleshoot network infrastructures for efficient data transmission and access."
+},
+{
+    "title": "Object Oriented Programming",
+    "theme":"MdOutlineDataObject",
+    "size":"5em",
+    "description": "I have learned OOPs principles such as abstraction, inheritance, polymorphism, and encapsulation to design modular and reusable software components, enhancing code maintainability and scalability."
+},
+{
+    "title": "Git",
+    "theme":"FaGitAlt",
+    "size":"5em",
+    "description": " I have utilized Git for version control, collaborating with team members on projects, and managing code repositories efficiently."
+},
+{
+    "title": "Operating System",
+    "theme":"GrSystem",
+    "size":"5em",
+    "description": "I have studied various operating systems' functionalities, including process management, memory allocation, file systems,  and security mechanisms. "
+}
+]

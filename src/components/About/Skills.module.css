@@ -1,0 +1,68 @@
+@import "../../vars.css";
+.title{
+    color: var(--color-text);
+    
+    margin-top: 0;
+}
+
+
+  
+
+
+  .content{
+    display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Two columns with minimum width of 300px */
+  gap: 20px; /* Add gap between grid items */
+  }
+
+  .items{
+    color: var(--color-text);
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+  .item{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    border-radius: 20px;
+    list-style: none;
+    padding: 25px;
+    background-image: linear-gradient(
+      90deg,
+      rgba(165,215,232,0.42) 0%,
+      rgba(255,255,255,0) 100%
+    );
+    background-size: 0 100%;
+    background-repeat: no-repeat;
+    transition: 0.4s;
+  }
+
+  .item:hover{
+    background-size: 100% 100%;
+  }
+
+  .item h3{
+    text-align: left;
+    font-size: 25px;
+    font-weight: 600;
+  }
+.item p{
+  text-align: left;
+  font-size: 25px;
+}
+
+@media screen and (max-width:1070px) {
+  .content{
+    grid-template-columns: 1fr;
+  }
+  .items{
+    margin-top: 29px;
+  }
+  .item{
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
